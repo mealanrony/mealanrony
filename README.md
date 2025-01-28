@@ -11,4 +11,7 @@ I'm actively seeking internship opportunities where I can apply my knowledge and
 ##Skills Summary
  
 Technical: Python, C/C++, Java, Matlab, Version control 
-Soft Skills: Detail oriented, Articulate, Problem solver, Collaborative, Effective learner, Interpersonal skills, Inquisitive, Determined Relevant Courses: Developing object-oriented systems, Data structures and algorithms, Computer organization and architecture, Programming language and Paradigms, Mathematical logic with Computing, Numerical Analysis, Statistics, Advanced Calculus, Linear Algebra.
+
+Soft Skills: Detail oriented, Articulate, Problem solver, Collaborative, Effective learner, Interpersonal skills, Inquisitive, Determined 
+
+Relevant Courses: Developing object-oriented systems, Data structures and algorithms, Computer organization and architecture, Programming language and Paradigms, Mathematical logic with Computing, Numerical Analysis, Statistics, Advanced Calculus, Linear Algebra.
